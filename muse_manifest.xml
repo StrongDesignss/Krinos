@@ -1,0 +1,112 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ieratika-krinos.com" resolutions="1x,2x" timestamp="1552172670107">
+  <folder name="css">
+    <file name="site_global.css" crc="138528398"/>
+    <file name="master_a-master.css" crc="4232190666" ref="προϊόντα:ζωστικα:τρόποι-παραγγελίας:μετρήσεις:εξωρασα:εταιρεία:index:επικοινωνία:faq"/>
+    <file name="________.css" crc="4283375693" ref="προϊόντα"/>
+    <file name="_______.css" crc="4190046237" ref="ζωστικα"/>
+    <file name="______-___________.css" crc="4190062645" ref="τρόποι-παραγγελίας"/>
+    <file name="_________.css" crc="438483591" ref="μετρήσεις"/>
+    <file name="_______1.css" crc="3971200378" ref="εξωρασα"/>
+    <file name="________1.css" crc="292741496" ref="εταιρεία"/>
+    <file name="index.css" crc="3861795176" ref="index"/>
+    <file name="___________.css" crc="85776317" ref="επικοινωνία"/>
+    <file name="faq.css" crc="80128742" ref="faq"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>προϊόντα:phone>ζωστικα:phone>εξωρασα:phone>εταιρεία:phone>επικοινωνία:phone>μετρήσεις:phone>faq:phone>τρόποι-παραγγελίας:tablet>index:tablet>προϊόντα:tablet>ζωστικα:tablet>εξωρασα:tablet>εταιρεία:tablet>επικοινωνία:tablet>μετρήσεις:tablet>faq:tablet>τρόποι-παραγγελίας:index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>προϊόντα:phone>ζωστικα:phone>εξωρασα:phone>εταιρεία:phone>επικοινωνία:phone>μετρήσεις:phone>faq:phone>τρόποι-παραγγελίας:tablet>index:tablet>προϊόντα:tablet>ζωστικα:tablet>εξωρασα:tablet>εταιρεία:tablet>επικοινωνία:tablet>μετρήσεις:tablet>faq:tablet>τρόποι-παραγγελίας:index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>προϊόντα:phone>ζωστικα:phone>εξωρασα:phone>εταιρεία:phone>επικοινωνία:phone>μετρήσεις:phone>faq:phone>τρόποι-παραγγελίας:tablet>index:tablet>προϊόντα:tablet>ζωστικα:tablet>εξωρασα:tablet>εταιρεία:tablet>επικοινωνία:tablet>μετρήσεις:tablet>faq:tablet>τρόποι-παραγγελίας:index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>προϊόντα:tablet>ζωστικα:tablet>εξωρασα:tablet>εταιρεία:tablet>επικοινωνία:tablet>μετρήσεις:tablet>faq:tablet>τρόποι-παραγγελίας"/>
+    <file name="webpro.js" crc="3803554875" ref="επικοινωνία"/>
+    <file name="form_check.php" crc="277267350" ref="επικοινωνία"/>
+    <file name="form_throttle.php" crc="3908387251" ref="επικοινωνία"/>
+    <file name="form_process.php" crc="24249335" ref="επικοινωνία"/>
+    <file name="form-u402.php" crc="102742450" ref="επικοινωνία"/>
+  </folder>
+  <folder name="images">
+    <file name="2.png" crc="416153989" seo="true" ref="index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="2_2x.png" crc="4153366350" seo="true" ref="index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="facebook.png" crc="483612533" seo="true" ref="index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="facebook_2x.png" crc="510733759" seo="true" ref="index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="twitter-logo-silhouette.png" crc="280013696" seo="true" ref="index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="twitter-logo-silhouette_2x.png" crc="4280572228" seo="true" ref="index:προϊόντα:εταιρεία:επικοινωνία:μετρήσεις:faq:τρόποι-παραγγελίας:εξωρασα:ζωστικα"/>
+    <file name="54340094_2450072771694076_3546143162441400320_n231x270.jpg" crc="4261314494" seo="true" ref="προϊόντα"/>
+    <file name="54340094_2450072771694076_3546143162441400320_n_2x.jpg" crc="469589635" seo="true" ref="προϊόντα"/>
+    <file name="54417876_2022835361158444_5462186952893661184_n270x270.jpg" crc="349131818" seo="true" ref="προϊόντα"/>
+    <file name="54417876_2022835361158444_5462186952893661184_n_2x.jpg" crc="92748728" seo="true" ref="προϊόντα"/>
+    <file name="untitled-5.jpg" crc="4004632793" seo="true" ref="εταιρεία:επικοινωνία:μετρήσεις:τρόποι-παραγγελίας"/>
+    <file name="untitled-5_2x.jpg" crc="3928859214" seo="true" ref="εταιρεία:επικοινωνία:μετρήσεις:τρόποι-παραγγελίας"/>
+    <file name="untitled-2.png" crc="299522190" seo="true" ref="επικοινωνία"/>
+    <file name="untitled-2_2x.png" crc="4156362982" seo="true" ref="επικοινωνία"/>
+    <file name="untitled-3.png" crc="363152941" seo="true" ref="επικοινωνία"/>
+    <file name="untitled-3_2x.png" crc="3920790644" seo="true" ref="επικοινωνία"/>
+    <file name="untitled-4.png" crc="137550784" seo="true" ref="επικοινωνία"/>
+    <file name="untitled-4_2x.png" crc="3894406086" seo="true" ref="επικοινωνία"/>
+    <file name="u404-17.png" crc="3825975787" ref="επικοινωνία"/>
+    <file name="u404-17-r.png" crc="3978374003" ref="επικοινωνία"/>
+    <file name="u404-17-m.png" crc="3825975787" ref="επικοινωνία"/>
+    <file name="u404-17-fs.png" crc="170695856" ref="επικοινωνία"/>
+    <file name="u404-17_2x.png" crc="161441182" ref="επικοινωνία"/>
+    <file name="u404-17-r_2x.png" crc="3866226293" ref="επικοινωνία"/>
+    <file name="u404-17-m_2x.png" crc="161441182" ref="επικοινωνία"/>
+    <file name="u404-17-fs_2x.png" crc="3997871251" ref="επικοινωνία"/>
+    <file name="untitled-6.jpg" crc="3827017893" seo="true" ref="μετρήσεις"/>
+    <file name="54340094_2450072771694076_3546143162441400320_n.jpg" crc="491648020" seo="true" ref="εξωρασα"/>
+    <file name="1.jpg" crc="271032872" seo="true" ref="εξωρασα"/>
+    <file name="1_2x.jpg" crc="346768678" seo="true" ref="εξωρασα"/>
+    <file name="54417876_2022835361158444_5462186952893661184_n.jpg" crc="4225384275" seo="true" ref="ζωστικα"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="______-___________.css" crc="3964970448" ref="tablet>τρόποι-παραγγελίας"/>
+      <file name="_________.css" crc="3964970448" ref="tablet>μετρήσεις"/>
+      <file name="________1.css" crc="3964970448" ref="tablet>εταιρεία"/>
+      <file name="___________.css" crc="3964970448" ref="tablet>επικοινωνία"/>
+      <file name="index.css" crc="3964970448" ref="tablet>index"/>
+      <file name="________.css" crc="3964970448" ref="tablet>προϊόντα"/>
+      <file name="_______1.css" crc="3964970448" ref="tablet>εξωρασα"/>
+      <file name="faq.css" crc="3964970448" ref="tablet>faq"/>
+      <file name="_______.css" crc="3964970448" ref="tablet>ζωστικα"/>
+    </folder>
+    <file name="index.html" crc="3877107966" seo="true" mt="1552171615397" redirect="false"/>
+    <file name="προϊόντα.html" crc="3860923649" seo="true" mt="1552171615447" redirect="false"/>
+    <file name="ζωστικα.html" crc="30303542" seo="true" mt="1552171615523" redirect="false"/>
+    <file name="εξωρασα.html" crc="4169191482" seo="true" mt="1552171615597" redirect="false"/>
+    <file name="εταιρεία.html" crc="48183156" seo="true" mt="1552171615647" redirect="false"/>
+    <file name="επικοινωνία.html" crc="3887496579" seo="true" mt="1552171615694" redirect="false"/>
+    <file name="μετρήσεις.html" crc="456014387" seo="true" mt="1552171615782" redirect="false"/>
+    <file name="faq.html" crc="438553632" seo="true" mt="1552171615867" redirect="false"/>
+    <file name="τρόποι-παραγγελίας.html" crc="291146959" seo="true" mt="1552171615938" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="_______1.css" crc="4107295331" ref="phone>εξωρασα"/>
+      <file name="______-___________.css" crc="4107295331" ref="phone>τρόποι-παραγγελίας"/>
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+      <file name="___________.css" crc="4107295331" ref="phone>επικοινωνία"/>
+      <file name="_______.css" crc="4107295331" ref="phone>ζωστικα"/>
+      <file name="faq.css" crc="4107295331" ref="phone>faq"/>
+      <file name="_________.css" crc="4107295331" ref="phone>μετρήσεις"/>
+      <file name="________.css" crc="4107295331" ref="phone>προϊόντα"/>
+      <file name="________1.css" crc="4107295331" ref="phone>εταιρεία"/>
+    </folder>
+    <file name="index.html" crc="436835592" seo="true" mt="1552171615963" redirect="false"/>
+    <file name="προϊόντα.html" crc="237466210" seo="true" mt="1552171615964" redirect="false"/>
+    <file name="ζωστικα.html" crc="4075454197" seo="true" mt="1552171615964" redirect="false"/>
+    <file name="εξωρασα.html" crc="4106948204" seo="true" mt="1552171615964" redirect="false"/>
+    <file name="εταιρεία.html" crc="377027734" seo="true" mt="1552171615965" redirect="false"/>
+    <file name="επικοινωνία.html" crc="3858035373" seo="true" mt="1552171615965" redirect="false"/>
+    <file name="μετρήσεις.html" crc="4138006430" seo="true" mt="1552171615965" redirect="false"/>
+    <file name="faq.html" crc="382769571" seo="true" mt="1552171615966" redirect="false"/>
+    <file name="τρόποι-παραγγελίας.html" crc="23435522" seo="true" mt="1552171615966" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="450164336" seo="true" mt="1552171615397" redirect="true"/>
+  <file name="προϊόντα.html" crc="138526602" seo="true" mt="1552171615447" redirect="true"/>
+  <file name="εταιρεία.html" crc="4158001631" seo="true" mt="1552171615646" redirect="true"/>
+  <file name="επικοινωνία.html" crc="3909878415" seo="true" mt="1552171615693" redirect="true"/>
+  <file name="μετρήσεις.html" crc="3770162396" seo="true" mt="1552171615780" redirect="true"/>
+  <file name="faq.html" crc="368656459" seo="true" mt="1552171615866" redirect="true"/>
+  <file name="τρόποι-παραγγελίας.html" crc="4080098640" seo="true" mt="1552171615937" redirect="true"/>
+  <file name="εξωρασα.html" crc="4182301349" seo="true" mt="1552172163102" redirect="true"/>
+  <file name="ζωστικα.html" crc="4145205169" seo="true" mt="1552172316919" redirect="true"/>
+</manifest>
